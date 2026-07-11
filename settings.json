@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "affinitymc.aternos.me",
+    "ip": "fangtooth.aternos.host",
     "port": 45143,
     "version": "1.20.1",
     "try-creative": false
